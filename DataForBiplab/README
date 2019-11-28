@@ -1,0 +1,11 @@
+The data contains geolocation (latitude-longitude), Crop Type sown at the location, Approximate Sowing and Harvesting Date. The data 
+is collected from the fields in District Bulandshahr, Uttar Pradesh, India over 5km square area for 2 crop cycles. The crop-cycles 
+are the following
+
+-Kharif 2017 crop cycle
+---304 Field samples on Paddy, Sugarcane, Millet, Sorghum, Pigeon Pea
+---240 samples on Forest/Non-cropland and Habitation areas 
+
+-Rabi 2017-2018 crop cycle
+302 Field samples on Wheat, Sugarcane, Mustard
+
